@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/clear"
+        android:orderInCategory="100"
+        android:title="@string/txt_clear"
+        android:icon="@drawable/ic_clear"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/download"
+        android:orderInCategory="100"
+        android:title="@string/txt_download"
+        android:icon="@drawable/ic_download"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/refresh"
+        android:icon="@drawable/ic_refresh"
+        android:orderInCategory="100"
+        android:title="refresh"
+        app:showAsAction="ifRoom" />
+
+
+</menu>

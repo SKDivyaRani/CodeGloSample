@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CodeGlo Sample</string>
+    <string name="txt_continue">Continue</string>
+    <string name="txt_download">Download</string>
+    <string name="txt_downloadall">Download All</string>
+    <string name="txt_clear">Clear</string>
+    <string name="txt_appname">CodeGlo</string>
+    <string name="error_response">Something went wrong, Please try after Sometimes</string>
+    <string name="network_alert">Enable your Internet Connection to download</string>
+    <string name="download_alert">Enable your Internet to Refresh the List</string>
+    <string name="txt_download_completed">Download completed</string>
+    <string name="txt_download_alert">Downloading Started, Check NotificationBar for status</string>
+    <string name="download_msg">CodeGlo - Downloading Image %d</string>
+</resources>
